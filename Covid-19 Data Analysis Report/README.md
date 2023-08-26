@@ -20,7 +20,7 @@ The year 2020 went down in history as the year the whole world was shut down due
 7. Which are the most affected and the least affected five countries in the world?
 
 
-![](covid_intro.png)
+![](frontline_workers.png)
 
 
 ....
