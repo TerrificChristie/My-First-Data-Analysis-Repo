@@ -50,7 +50,7 @@ Redundant columns were removed, errors were removed, null values were removed, a
 - Summary and Observations: Finally, these insights are used to highlight my observations
 
 
-![](covid19.PNG)               
+![](Covid19.PNG)               
 
 
 
@@ -77,7 +77,7 @@ You can interact with the report [here](https://app.powerbi.com/groups/8da3a3c6-
 
 
 
-![](global_cum_death.png)
+![](global_cum__death.png)
 
 
 ......
