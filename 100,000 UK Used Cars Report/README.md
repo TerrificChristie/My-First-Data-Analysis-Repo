@@ -39,7 +39,14 @@ The data for this project was sourced from an online database. This can be acces
 6. Modelling was carried out between the data to ensure accurate connectivity.
 
 
-### Classifications of Various Variables
+### Data Modelling                          
+
+
+![](Used_cars_modelling.png)                 
+
+
+
+Classifications of Various Variables   
 
 ![](classification_of_variables.png)
 
@@ -80,7 +87,7 @@ More insights can be seen on the tabular chart below of the impacts of various e
 
 
 
-![](Tabular.png)
+![](used_cars_tabular.png)
 
 
 You can interact with the report [here](https://app.powerbi.com/groups/8da3a3c6-0dc0-4c56-ba8d-510a929cca8d/reports/79c1dfeb-78d3-4bd6-9469-1b7aa5d6554e?ctid=0f4b7089-c4c8-43da-8959-f3ea16f5eabb&pbi_source=linkShare&bookmarkGuid=05debe1c-c338-419e-8f1b-8711206b9c3b)
@@ -89,24 +96,24 @@ You can interact with the report [here](https://app.powerbi.com/groups/8da3a3c6-
 # Conclusion and Recommendations
 
 1. Audi brand of car has the highest average price with the following statistics:
-- Average Price       £62,246.67
-- Year                9 Years
-- Average mpg         23.33
-- Avg. EngSize        4.53
-- Avg. Mileage        13,590.67
-- Transmission        Semi-Automatic
-- Tax                 £570
-- Avg price/Mileage   £5
+- Average Price      - £62,246.67
+- Year               - 9 Years
+- Average mpg        - 23.33
+- Avg. EngSize       - 4.53
+- Avg. Mileage       - 13,590.67
+- Transmission       - Semi-Automatic
+- Tax                - £570
+- Avg price/Mileage  - £5
 
 2. BMW car brand has the lowest average price with the following statistics:
--  Average Price      £1200
-- Year                24 Years
-- Average mpg         31
-- Avg. EngSize        2.8
-- Avg. Mileage        82,000
-- Transmission        Semi-Automatic
-- Tax                 £245
-- Avg price/Mileage   £0
+-  Average Price      -£1200
+- Year                -24 Years
+- Average mpg         -31
+- Avg. EngSize        -2.8
+- Avg. Mileage        -82,000
+- Transmission        -Semi-Automatic
+- Tax                 -£245
+- Avg price/Mileage   -£0
 
 3. Prices of cars in their recent years are generally higher than the older cars.
 4. Prices are shown to be more impacted by the Mileage and Age of the cars.
