@@ -45,7 +45,7 @@ The data for this project was sourced from an online database. This can be acces
 
 
 
-###Data Analysis and Findings
+### Data Analysis and Findings
 
 From the analysis carried out, the following was discovered:
 1. There were a total of 11 car brands with 195 models.
