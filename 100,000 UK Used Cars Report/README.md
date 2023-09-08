@@ -45,13 +45,13 @@ The data for this project was sourced from an online database. This can be acces
 
 
 
-### Data Analysis and Findings
+### Data Analysis and Insights
 
 From the analysis carried out, the following was discovered:
 1. There were a total of 11 car brands with 195 models.
 2. Mercedes car brand has the highest price while Vauxhall has the lowest second-hand value.
 3. After removing dirty data and errors, we have left a total of 108,540 cars.
-4. The average price of the cars is $16,890
+4. The average price of the cars is £16,890
 5. The cars' years span over fifty (50 years).
 6. The most efficient fuel type is electric while the least efficient are the cars using petrol type of fuel.
 7. The brands with the highest number of car models are Mercedez and Volkswagen with 27 models each while the brands with the least number of models are CClass and Focus with only 1 model each.
@@ -63,13 +63,19 @@ From the analysis carried out, the following was discovered:
 
 
 
+10. Cars in the Antique class show a higher average price range than the newer range possibly because of their uniqueness in rarity and features. Most buyer likely want to buy back their youths; as a form of collection.
+11. Vehicles in the 1990s have the lowest average price, this might be due to the fact that they were made during a period when carbon emission was high.
+12. As to be expected, taxes have an impact on the average price of cars as the highest average price falls within cars with the premium road tax, and cars in the class of featherweight have the lowest average price.  
+13. Cars with low mileage have high average prices while cars with high mileage classified as high risk have the lowest price.
+14. The comparison of tax impact between the affordable tax class ( £0 - £100) and the high tax class ( £301 - £400) shows that Skoda car brand under the high tax class is more favored than the affordable tax class with a huge 308% tax relief. Next to Skoda is the Vauxhall car brand, with a 117.25% change. This was shown in the ribbon chart. In the absolute term, however, the tax rate is progressive as premium brands are taxed more.
+15. Most of the variables have an impact on the sale and price of the cars. 
 
+
+    
 ![](used_cars_charts.png)
 
 
-## Visualization
-
-
+More insights can be seen on the tabular chart below of the impacts of various elements on the sale and prices of the cars.
 
 
 
@@ -80,4 +86,28 @@ From the analysis carried out, the following was discovered:
 You can interact with the report [here](https://app.powerbi.com/groups/8da3a3c6-0dc0-4c56-ba8d-510a929cca8d/reports/79c1dfeb-78d3-4bd6-9469-1b7aa5d6554e?ctid=0f4b7089-c4c8-43da-8959-f3ea16f5eabb&pbi_source=linkShare&bookmarkGuid=05debe1c-c338-419e-8f1b-8711206b9c3b)
 
 ......
-# Findings and Recommendations
+# Conclusion and Recommendations
+
+1. Audi brand of car has the highest average price with the following statistics:
+- Average Price       £62,246.67
+- Year                9 Years
+- Average mpg         23.33
+- Avg. EngSize        4.53
+- Avg. Mileage        13,590.67
+- Transmission        Semi-Automatic
+- Tax                 £570
+- Avg price/Mileage   £5
+
+2. BMW car brand has the lowest average price with the following statistics:
+-  Average Price      £1200
+- Year                24 Years
+- Average mpg         31
+- Avg. EngSize        2.8
+- Avg. Mileage        82,000
+- Transmission        Semi-Automatic
+- Tax                 £245
+- Avg price/Mileage   £0
+
+3. Prices of cars in their recent years are generally higher than the older cars.
+4. Prices are shown to be more impacted by the Mileage and Age of the cars.
+
