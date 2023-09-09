@@ -7,7 +7,7 @@
 ...
 ## Project Objective
 
-The objective of this project is to analyze the scraped data of UK used car listings of up to 100,000 comprising different manufacturers and models and visualize the result with Microsoft Power BI.
+This project aims to analyze the scraped data of UK used car listings of up to 100,000 comprising different manufacturers and models and visualize the result with Microsoft Power BI.
 
 
 ## Problem Statement
@@ -32,7 +32,7 @@ The data for this project was sourced from an online database. This can be acces
 
  Data Cleaning: To make the data usable for the required analysis, the following tasks were performed:
 1. I performed the cleaning of the data by removing errors and null values. 
-2. Dirty duplicates of certain data were removed from the dataset.
+2. Dirty duplicates of specific data were removed from the dataset.
 3. I replaced the year 2060 with 2006. 
 4. Different variables were distributed into classes for ease of analysis.
 5. Additional columns with New Measures were created to calculate average prices and the ages of the cars, using DAX expressions.
@@ -57,7 +57,7 @@ Classifications of Various Variables
 From the analysis carried out, the following was discovered:
 1. There were a total of 11 car brands with 195 models.
 2. Mercedes car brand has the highest price while Vauxhall has the lowest second-hand value.
-3. After removing dirty data and errors, we have left a total of 108,540 cars.
+3. After removing dirty data and errors, we have left 108,540 cars.
 4. The average price of the cars is £16,890
 5. The cars' years span over fifty (50 years).
 6. The most efficient fuel type is electric while the least efficient are the cars using petrol type of fuel.
@@ -71,10 +71,10 @@ From the analysis carried out, the following was discovered:
 
 
 10. Cars in the Antique class show a higher average price range than the newer range possibly because of their uniqueness in rarity and features. Most buyer likely want to buy back their youths; as a form of collection.
-11. Vehicles in the 1990s have the lowest average price, this might be due to the fact that they were made during a period when carbon emission was high.
+11. Vehicles in the 1990s have the lowest average price.
 12. As to be expected, taxes have an impact on the average price of cars as the highest average price falls within cars with the premium road tax, and cars in the class of featherweight have the lowest average price.  
 13. Cars with low mileage have high average prices while cars with high mileage classified as high risk have the lowest price.
-14. The comparison of tax impact between the affordable tax class ( £0 - £100) and the high tax class ( £301 - £400) shows that Skoda car brand under the high tax class is more favored than the affordable tax class with a huge 308% tax relief. Next to Skoda is the Vauxhall car brand, with a 117.25% change. This was shown in the ribbon chart. In the absolute term, however, the tax rate is progressive as premium brands are taxed more.
+14. The comparison of tax impact between the affordable tax class ( £0 - £100) and the high tax class ( £301 - £400) shows that the Skoda car brand under the high tax class is more favored than the affordable tax class with a huge 308% tax relief. Next to Skoda is the Vauxhall car brand, with a 117.25% change. This was shown in the ribbon chart. In the absolute term, however, the tax rate is progressive as premium brands are taxed more.
 15. Most of the variables have an impact on the sale and price of the cars. 
 
 
