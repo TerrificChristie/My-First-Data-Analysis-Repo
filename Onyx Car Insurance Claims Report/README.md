@@ -49,10 +49,16 @@ I used the CASE Statement to classify the car manufacturing years, Customers' bi
 
 
 Claim amounts are ranked to highlight the top 10 brands and the least 10 brands based on the sum of claim amounts received.
+
 ![](claim_top10.png)
+
+
 The data was later split into three tables with an additional two tables to represent the top 10 and the least 10 brands based on insurance claims amount. This is to allow further data transformation.
 
+
 ![](claim_least10.png)
+
+
 The new tables have two columns each and null values were removed from the tables 
 
 All the above were performed inside the SQL server.
@@ -73,22 +79,30 @@ With the clean data set, it was easy to carry out analysis and bring out useful 
 
 
 
-![](Onyx_home.png)               
+![](onyx_home.png)  
+
 
 
 
 ## Visualization
 
-![](Onyx_charts.png)
+
+
+
+![](onyx_charts.png)
 
 
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/88b47cca-c006-4a7a-9aaa-06baee7d1213/ReportSectionbc1f77fd7e73eb300827?experience=power-bi)
+
 
 # Findings and Recommendations
 
 ## Findings
 
-![](Onyx_tables.png)
+
+
+![](onyx_tables.png)
+
 
 
 1. The total number of customers is 35,741.
@@ -104,10 +118,36 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 11. Most of the customers are using the caras alone. The sum of the claims of cars used by the customers alone is higher than the total claims of those with more users.
 12. The Top 10 brands and the Least 10 brands are as follows:
 
-    ![](Top10brands.png)
+Top 10 Brands Based on Claimsare:
+
+1. Ford
+2. Chevrolet
+3. Dodge
+4. Toyota
+5. GMC
+6. Mitsubishi
+7. Mazda
+8. Pontiac
+9. Mercedez-Benz
+10. Volkswagen
 
 
-    ![](least10brands.png)
+Least 10 Brands Base on Claims:
+
+1. Shelby
+2. Jensen
+3. Aptera
+4. MG
+5. Hillman
+6. Merkur
+7. Fillmore
+8. Fairthorpe
+9. Renault
+10. Rambler
+
+
+
+
 
 ## Recommendations:
 
@@ -116,4 +156,4 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 3. To tap into the other marital status market, events and campaigns can be created to enlighten this group about the importance of having a car Insurance policy.
 4. Promotion should be carried out to attract car users with PhD qualifications. 
 5. The marketing team needs to do more work in creating awareness and enlightenment for the groups with low claim amounts.
-6. A special package might be created to attract car owner under the age of 25 years old as they are in their most active years.
+6. A special package might be introduced to attract car owners under the age of 25 years old as they are in their most active years.
