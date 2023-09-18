@@ -118,7 +118,9 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 11. Most of the customers are using the caras alone. The sum of the claims of cars used by the customers alone is higher than the total claims of those with more users.
 12. The Top 10 brands and the Least 10 brands are as follows:
 
-Top 10 Brands Based on Claimsare:
+
+
+- Top 10 Brands Based on Claims are:
 
 1. Ford
 2. Chevrolet
@@ -132,7 +134,7 @@ Top 10 Brands Based on Claimsare:
 10. Volkswagen
 
 
-Least 10 Brands Base on Claims:
+- The Least 10 Brands Base on Claims:
 
 1. Shelby
 2. Jensen
