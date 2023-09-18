@@ -49,10 +49,10 @@ I used the CASE Statement to classify the car manufacturing years, Customers' bi
 
 
 Claim amounts are ranked to highlight the top 10 brands and the least 10 brands based on the sum of claim amounts received.
-![](Top10.png)
+![](claim_top10.png)
 The data was later split into three tables with an additional two tables to represent the top 10 and the least 10 brands based on insurance claims amount. This is to allow further data transformation.
 
-![](least10.png)
+![](claim_least10.png)
 The new tables have two columns each and null values were removed from the tables 
 
 All the above were performed inside the SQL server.
