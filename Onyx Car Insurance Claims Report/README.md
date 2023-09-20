@@ -65,7 +65,7 @@ All the above were performed inside the SQL server.
 
 After this, the clean data was exported into Power BI for modeling and visualization
 
-## Data Modelling and Analysis
+## Data Modeling and Analysis
 
 ![](Onyx_Ins_model.png)
 
