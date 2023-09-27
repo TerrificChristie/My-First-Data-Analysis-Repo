@@ -32,12 +32,12 @@ The dataset was sourced from Onyx Data as part of their monthly data challenge.
 
 ## Data Transformation
 
-- Data Cleaning
-  I took time to understand the data set so as to know the best tool to use. I chose SQL for my data cleaning to make splitting and joining easier and I used Microsoft Power BI for data visualization.
+>- Data Cleaning
+  I took time to understand the data set so as to know the best tool to use. I chose SQL for data cleaning to make splitting and joining of files easier and I used Microsoft Power BI for data visualization.
   
 ### The following are also performed to clean the data before embarking on analysis:
 
-After importing the dataset into the SQL server, I ensure the data types are in accurate form for each of the columns.
+After importing the dataset into the SQL server, I ensure the data types are accurate for each of the columns.
 
 I used the CASE Statement to classify the car manufacturing years, Customers' birth year, and the Customers' income levels into groups for ease of analysis.
 
@@ -53,7 +53,7 @@ Claim amounts are ranked to highlight the top 10 brands and the least 10 brands 
 ![](claim_top10.png)
 
 
-The data was later split into three tables with an additional two tables to represent the top 10 and the least 10 brands based on insurance claims amount. This is to allow further data transformation.
+The data was later split into three tables with an additional two to represent the top 10 and the least 10 brands based on insurance claims amount. This is to allow further data transformation.
 
 
 ![](claim_least10.png)
