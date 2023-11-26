@@ -89,4 +89,4 @@ You can interact with the report [here](https://app.powerbi.com/links/6Z4M0l-ywi
 3. Training should be considered for entry-level employees if the high attrition level is due to under-performance.
 4. Staff welfare and health must be considered to ensure that the working environment is satisfactory.
 5. Employees should be carried along and allowed to be more involved in business activities. This will increase their buy-in and trust.
-6. The working conditions of overtime employees should be considered.
+6. The working conditions of overtime employees should be improved.
